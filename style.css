@@ -17,12 +17,12 @@ body {
 }
 
 .flipbook {
-    width: 1000px;  /* 2 pages of 500px each (5 units) */
-    height: 700px;  /* 7 units - maintaining 5:7 ratio for each page */
+    width: 750px;  /* 2 pages of 500px each (5 units) */
+    height: 525px;  /* 7 units - maintaining 5:7 ratio for each page */
 }
 
 .flipbook .hard {
-    background: #c0392b !important;
+    background: #ffffff !important;
     color: #fff;
     font-weight: bold;
     border: none; 
